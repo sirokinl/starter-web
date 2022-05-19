@@ -17,3 +17,7 @@ This is a simple web project deploment van be on any webs erv.
 ## How to contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+Git.Training
