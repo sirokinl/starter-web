@@ -16,7 +16,7 @@ This is a simple web project deploment van be on any webs erv.
 
 ## How to contribute
 
-Please fork this repo and then issue pull request
+Please fork this repo and then issue pull request for review
 
 ## Copyright
 
